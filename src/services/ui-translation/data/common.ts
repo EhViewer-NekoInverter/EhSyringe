@@ -91,9 +91,9 @@ merge(
             '某些关键词使用了不支持的语法、太短或无效。',
         'The provided date is invalid or outside the range of posted galleries.':
             '提供的日期无效或超出已发布图库的日期范围。',
-        'The page range minimum cannot be above 1000.': '页数最小值最多为 1000。',
+        'The page range minimum cannot be above 1000.': '页数最小值至多为 1000。',
         'The page range maximum cannot be below 10.': '页数最大值至少为 10。',
-        'Your page range filter is too narrow.': '页数范围差至少为 20。',
+        'Your page range filter is too narrow.': '页数范围差至少为 20，范围比至多为 0.8。',
         'You provided too many keywords. Use fewer keywords, or combine keywords with quotes.':
             '使用的关键词过多。请减少关键词或使用引号组合关键词。',
         'You provided too many keywords. Use fewer keywords, or combine keywords with quotes. (Ignored ':
