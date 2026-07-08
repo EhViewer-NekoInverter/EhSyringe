@@ -1,6 +1,4 @@
 export const BROWSING_COUNTRY = {
-    'North America': 'North America (北美洲)',
-
     Afghanistan: 'Afghanistan (阿富汗)',
     'Aland Islands': 'Aland Islands (奥兰群岛)',
     Albania: 'Albania (阿尔巴尼亚)',
@@ -73,7 +71,6 @@ export const BROWSING_COUNTRY = {
     Eritrea: 'Eritrea (厄立特里亚)',
     Estonia: 'Estonia (爱沙尼亚)',
     Ethiopia: 'Ethiopia (埃塞俄比亚)',
-    Europe: 'Europe (欧洲)',
     'Falkland Islands': 'Falkland Islands (马尔维纳斯群岛)',
     'Faroe Islands': 'Faroe Islands (法罗群岛)',
     Fiji: 'Fiji (斐济)',
